@@ -1,0 +1,19 @@
+D:\repos\deneme\deneme\bin\Debug\deneme.exe.config
+D:\repos\deneme\deneme\bin\Debug\deneme.exe
+D:\repos\deneme\deneme\bin\Debug\deneme.pdb
+D:\repos\deneme\deneme\obj\Debug\deneme.csprojAssemblyReference.cache
+D:\repos\deneme\deneme\obj\Debug\deneme.Form1.resources
+D:\repos\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+D:\repos\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+D:\repos\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+D:\repos\deneme\deneme\obj\Debug\deneme.exe
+D:\repos\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Türk Hava Yolları 2\deneme\bin\Debug\deneme.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\Türk Hava Yolları 2\deneme\bin\Debug\deneme.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\Türk Hava Yolları 2\deneme\bin\Debug\deneme.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Türk Hava Yolları 2\deneme\obj\Debug\deneme.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Türk Hava Yolları 2\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Türk Hava Yolları 2\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Türk Hava Yolları 2\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Türk Hava Yolları 2\deneme\obj\Debug\deneme.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\Türk Hava Yolları 2\deneme\obj\Debug\deneme.pdb
